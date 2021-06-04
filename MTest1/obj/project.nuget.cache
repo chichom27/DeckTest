@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5vib3aCKxoBDS3S51pjC3pfwI8M9C6hLgOWNQwPLanA3pgMrEc+jxcHrqGlM8Gz1nAHy4sKfzi5IB1Yq0onwsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dreni\\source\\repos\\DeckExe\\MTest1\\MTest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dreni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dreni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

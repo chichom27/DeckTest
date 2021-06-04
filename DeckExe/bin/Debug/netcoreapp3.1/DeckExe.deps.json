@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DeckExe/1.0.0": {
+        "dependencies": {
+          "MTest1": "1.0.0"
+        },
+        "runtime": {
+          "DeckExe.dll": {}
+        }
+      },
+      "MTest1/1.0.0": {
+        "runtime": {
+          "MTest1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeckExe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MTest1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

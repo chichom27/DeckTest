@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeckExe", "DeckExe\DeckExe.csproj", "{55014641-DB7E-4596-A150-86F4D4D32546}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MTest1", "MTest1\MTest1.csproj", "{206ED828-4F69-49D7-9B1E-F84A4D7729E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeckTests", "DeckTests\DeckTests.csproj", "{A5EDF79E-C97F-4407-8A65-9C93EEA28CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55014641-DB7E-4596-A150-86F4D4D32546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55014641-DB7E-4596-A150-86F4D4D32546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55014641-DB7E-4596-A150-86F4D4D32546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55014641-DB7E-4596-A150-86F4D4D32546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206ED828-4F69-49D7-9B1E-F84A4D7729E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206ED828-4F69-49D7-9B1E-F84A4D7729E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206ED828-4F69-49D7-9B1E-F84A4D7729E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206ED828-4F69-49D7-9B1E-F84A4D7729E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EDF79E-C97F-4407-8A65-9C93EEA28CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EDF79E-C97F-4407-8A65-9C93EEA28CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EDF79E-C97F-4407-8A65-9C93EEA28CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EDF79E-C97F-4407-8A65-9C93EEA28CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBFFFCAA-26F7-45DD-BC07-5D83E110B759}
+	EndGlobalSection
+EndGlobal
